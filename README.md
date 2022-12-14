@@ -1,0 +1,1 @@
+# s3bucket_and_dynamodb_table_using_terraform
