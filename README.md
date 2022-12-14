@@ -10,7 +10,11 @@
 Prerequisits:
 -------------
 1.Aws Account (Free Tier).
+
 2.Configure AWS CLI in system.
+
 3.Install Terraform.
+
 4.Install Visual Studio Code as IDE.
+
 5.Install Gitbash.
