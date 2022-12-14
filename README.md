@@ -18,3 +18,10 @@ Prerequisits:
 4. Install Visual Studio Code as IDE.
 
 5. Install Gitbash.
+
+
+
+
+#MyWebsite URL: http://ajtechvlogs.com/
+
+#My Website Home Page S3 Endpoint URL: http://ajtechvlogs.com.s3-website-us-east-1.amazonaws.com/
